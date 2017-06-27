@@ -1,6 +1,6 @@
 # OntoSuite-Miner
 
-![Zenodo Link](https://zenodo.org/badge/DOI/10.5281/zenodo.819726.svg)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.819726.svg)](https://doi.org/10.5281/zenodo.819726)
 
 *OntoSuite-Miner* is a framework composed of a set of Linux shell scripts, Perl/R scripts and two concept recognizers, the MetaMap and the NCBO Annotator working together to automate the creation of ontology based annotation from publicly available data repositories. The main purpose of the *OntoSuite-Miner* is to link genes with ontology terms given their free text annotation from a variety of sources. 
 
